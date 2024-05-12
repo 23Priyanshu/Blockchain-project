@@ -4,6 +4,8 @@
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
+- ![Blog-Solidity-Logo](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/945bf8f0-a0a3-4dfe-a57d-c7ade2b0b27d)
+
 - Javascript (React & Testing)
 - [Ethers](https://docs.ethers.io/v5/) (Blockchain Interaction)
 - ![download](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/ed273e98-279b-409f-93ae-857a22b28230)
