@@ -22,7 +22,10 @@
 
 
 - Install [Hardhat](https://hardhat.org/)
-![1-](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/b3455be1-a0c9-4a61-ae21-0b86c7b3bc3b)
+- Make a new directory using the command mkdir seun-nfts
+![Screenshot_2024-05-12_19_56_08](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/ffea39a2-06e8-452d-bc09-d8ea93d9a7b8)
+
+
 
 
 ## Setting Up
