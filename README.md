@@ -12,6 +12,12 @@
 
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/), should work with any node version below 16.5.0
+- ![Screenshot_2024-05-12_19_13_50](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/aea5344f-fc2b-44b5-9316-a813535ec64a)
+- ![Screenshot_2024-05-12_19_19_05 (1)](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/cdbf2477-8761-4a1f-977d-3db6316a8ec1)
+- ![Screenshot_2024-05-12_19_44_24](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/441b03a4-85e8-42b7-a373-04e58d5bd250)
+
+
+
 - Install [Hardhat](https://hardhat.org/)
 ![1-](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/b3455be1-a0c9-4a61-ae21-0b86c7b3bc3b)
 
