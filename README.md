@@ -52,6 +52,8 @@ $ npm install
 $ cd music_nfts
 $ npx hardhat node
 ```
+- ![Screenshot_2024-05-12_20_09_19](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/5d7b656a-e5d4-4c3e-b70c-56b97b1b8db8)
+
 
 ### 4. Connect development blockchain accounts to Metamask
 - Copy private key of the addresses and import to Metamask
