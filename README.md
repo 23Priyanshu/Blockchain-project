@@ -24,6 +24,15 @@
 - Install [Hardhat](https://hardhat.org/)
 - Make a new directory using the command mkdir seun-nfts
 ![Screenshot_2024-05-12_19_56_08](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/ffea39a2-06e8-452d-bc09-d8ea93d9a7b8)
+- Open your new directory using this command cd seun-nfts
+- ![Screenshot_2024-05-12_19_44_24 (1)](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/f4bede55-86ab-485d-bb54-e5c1c7122c83)
+- Generate an empty npm project using npm init -y
+- install hardhat using npm install --save-dev hardhat
+- ![Screenshot_2024-05-12_19_57_08](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/4125d2a9-6028-465f-bf7f-0fc0df50dc83)
+
+
+
+
 
 
 
