@@ -13,6 +13,8 @@
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/), should work with any node version below 16.5.0
 - Install [Hardhat](https://hardhat.org/)
+- ![328023202-1d5ff5b6-0b51-4447-b549-7a611a262850](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/c942c5eb-3278-413a-8d63-b624cc5fb1d8)
+
 
 ## Setting Up
 ### 1. Clone/Download the Repository
