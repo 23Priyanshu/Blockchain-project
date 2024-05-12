@@ -29,7 +29,8 @@
 - ![Screenshot_2024-05-12_19_44_24 (1)](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/f4bede55-86ab-485d-bb54-e5c1c7122c83)
 - Generate an empty npm project using npm init -y
 - install hardhat using npm install --save-dev hardhat
-- ![Screenshot_2024-05-12_19_57_08](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/4125d2a9-6028-465f-bf7f-0fc0df50dc83)
+- ![Screenshot_2024-05-12_19_57_08](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/f5c75057-28ff-4085-b2aa-6ac077e1d6bf)
+
 
 
 
