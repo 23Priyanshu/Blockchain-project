@@ -62,7 +62,11 @@ $ npx hardhat node
 
 
 ### 3. Connect development blockchain accounts to Metamask
+- ![download (2)](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/1ff020c3-0490-451e-9a4b-fb430fc08770)
+
 - Copy private key of the addresses and import to Metamask
+- ![1_MYF42Mx36VqBKlrKF6FH5Q](https://github.com/23Priyanshu/FILE_blockchain/assets/145743703/6b0997eb-5d58-4b92-a335-22227c33b935)
+
 - Connect your metamask to hardhat blockchain, network 127.0.0.1:8545.
 - If you have not added hardhat to the list of networks on your metamask, open up a browser, click the fox icon, then click the top center dropdown button that lists all the available networks then click add networks. A form should pop up. For the "Network Name" field enter "Hardhat". For the "New RPC URL" field enter "http://127.0.0.1:8545". For the chain ID enter "31337". Then click save.  
 
@@ -75,4 +79,6 @@ $ npx hardhat node
 
 ### 6. Launch Frontend
 `$ npm run start`
+
+
 
